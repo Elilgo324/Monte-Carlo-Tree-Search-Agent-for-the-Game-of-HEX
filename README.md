@@ -29,6 +29,9 @@ J.-B. Hoock, C.-S. Lee, A. Rimmel, F. Teytaud, O. Teytaud, and M.-H. Wang, “In
 I also will implement the threading-based Agent later.
 
 This algorithm is implemented in python and converted to effecient C code using cython libraries. For running the project you can use command python3 main.py in the directory.
+
 In the Graphiacl user interface you can set the time for agent to search.
+
 you also can increase the branch factor to test algorithms that how well they can interact with the environment.
+
 Pushing the button Generate will enable the tree to search the environment for the selected amount of time and come up with the best answer.
