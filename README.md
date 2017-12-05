@@ -22,8 +22,4 @@ The papers used for the agents are here:
 
 I also will implement the threading-based Agent later.
 
-
-
-
-
-
+This algorithm is implemented in python and converted to effecient C code using cython libraries. For running the project you can use command python3 main.py in the directory.
