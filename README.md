@@ -35,6 +35,6 @@ This algorithm is implemented in python and converted to effecient C code using 
 
 In the Graphiacl user interface you can set the time for agent to search.
 
-you also can increase the branch factor to test algorithms that how well they can interact with the environment.
+you also can increase the branch factor to test algorithms that how well they can interact with the environment and handle the complexity of world.
 
 Pushing the button Generate will enable the tree to search the environment for the selected amount of time and come up with the best answer.
