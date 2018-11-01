@@ -39,7 +39,7 @@ you also can increase the branch factor to test algorithms that how well they ca
 
 Pushing the button Generate will enable the tree to search the environment for the selected amount of time and come up with the best answer.
 
-To run the program you need to get Anaconda installed on Ubuntu, This is the link to install Anaconda:
+To run the program you need to get Anaconda 3.6 (or higher) installed on Ubuntu, This is the link to install Anaconda:
 https://www.anaconda.com/download/
 
 Use this code to run the program in the directory:
